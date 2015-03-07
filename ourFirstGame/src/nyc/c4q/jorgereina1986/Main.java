@@ -21,7 +21,7 @@ public class Main {
         first = input.next();
 
         if (first.equals("Y")) {
-            System.out.println("You have encountered a cyclops and he killed you! GAME OVER");
+            System.out.println("You enter the cave and eventually encounter a cyclops who you try and fight, but you are unarmed so he kills you! GAME OVER");
         } else if (first.equals("N"))
         {
             System.out.println("You continue walking, notice a river nearby and begin walking along it. Along the way you find an abandoned boat. Do you want to get in and take off down the river? [Y / N]");
